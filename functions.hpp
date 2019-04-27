@@ -1,0 +1,8 @@
+{"mysqla_create_query", gsc_mysqla_create_level_query, 0},
+{"mysqla_initializer", gsc_mysqla_initializer, 0},
+{"mysql_real_connect", gsc_mysqls_real_connect, 0},
+{"mysql_query", gsc_mysqls_query, 0},
+{"mysql_real_escape_string", gsc_mysqls_real_escape_string, 0},
+{"hexstringtoint", Gsc_Utils_HexStringToInt, 0},
+{"inttohexstring", Gsc_Utils_IntToHexString, 0},
+{"createrandomint", Gsc_Utils_CreateRandomInt, 0},
